@@ -1,4 +1,4 @@
-# Simple Arithmetic Calculator (C)
+# Simple Arithmetic Calculator (C Language)
 
 Just a simple CLI calculator I built for a Programming Fundamentals (PF) lab task. I wanted to upload this to document my progress with C.
 
